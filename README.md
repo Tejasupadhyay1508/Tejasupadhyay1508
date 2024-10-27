@@ -1,3 +1,4 @@
+![logo](https://github.com/Tejasupadhyay1508/Tejasupadhyay1508/blob/main/banner.gif)
 <h1 align="center">Hi 👋, I'm Tejas Upadhyay</h1>
 <h3 align="center">A passionate web developer</h3>
 
